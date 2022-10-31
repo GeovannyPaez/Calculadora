@@ -32,7 +32,7 @@ button:active{
     max-width: 400px;
     height: 80%;
     margin: 0 auto;
-    argin-block-start: 50px;
+    margin-block-start: 50px;
 }
  .calculadora{
     display: grid;
