@@ -28,7 +28,10 @@ button:active{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 90vh;
+    min-width: 320px;
+    max-width: 400px;
+    height: 80%;
+    margin: 0 auto;
 }
  .calculadora{
     display: grid;
